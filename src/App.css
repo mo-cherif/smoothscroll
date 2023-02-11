@@ -9,6 +9,7 @@
   scroll-snap-type: x mandatory;
   scroll-snap-stop: always;
   padding: 1.3rem;
+  background-color: green;
  
 }
 

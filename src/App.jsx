@@ -54,6 +54,9 @@ function App() {
 
           
        </div>
+
+       <h1>Mohamed CHERIF</h1>
+       <p>Engineer 🍵</p>
     </div>
   )
 }
