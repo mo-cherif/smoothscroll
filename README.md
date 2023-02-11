@@ -1,6 +1,6 @@
 # smoothscroll
-smooth scroll with pure CSS using react like Nike carousel component
+smooth scroll with pure CSS using react
 
-### npm install
-### npm run dev
+npm install
+npm run dev
 
