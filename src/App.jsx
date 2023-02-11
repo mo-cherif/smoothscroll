@@ -42,6 +42,8 @@ function App() {
               <p>Now in  blue . From $999.00 or 
                 $41.62/mo. for 24/mo.*</p>
               <img 
+                loading='lazy'
+                decoding='async'
                 width={300}
                 src={phone}
                 alt="" 
